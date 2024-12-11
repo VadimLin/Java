@@ -3,7 +3,7 @@ public class Task_3 {
     public static void main(String[] args) {
         Task_3 triangle = new Task_3(3, 5, 8);
 
-        System.out.println(triangle.getSum());
+        System.out.println(triangle.getSqr());
     }
 
     private int side1;
@@ -30,7 +30,7 @@ public class Task_3 {
         return side3;
     }
 
-    public int getSum() {
+    public int getSqr() {
         return (side1 + side2 + side3)/2;
     }
 }
