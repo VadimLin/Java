@@ -10,7 +10,7 @@ public class Task_6 {
             if (ints[i] < 6) {
                 ints[i] = ints[i] * 2;
             } else{
-
+                // а зачем этот else ?
             }
         }
         System.out.println(Arrays.toString(ints));
