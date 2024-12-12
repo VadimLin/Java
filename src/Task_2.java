@@ -2,6 +2,11 @@
 public class Task_2 {
     public static void main(String[] args) {
 
+/**
+* Решение - ок, но сделай плиз еще если число int = 152 
+*
+*/
+        
         String digits = "152";
         String[] arr = digits.split(""); /* означает, что строка digits будет разделена на части по пробелу, и
         результат будет храниться в массиве строк*/
