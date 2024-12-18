@@ -1,3 +1,5 @@
+package JavaCourse.Task_11;
+
 //Задача 11. Написать код, который создаст, а затем отловит ArrayIndexOutOfBoundsException.
 public class Task_11 {
     public static void main(String[] args) {

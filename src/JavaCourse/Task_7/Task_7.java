@@ -1,3 +1,5 @@
+package JavaCourse.Task_7;
+
 import java.util.Arrays;
 
 //Вывести элементы массива в обратном порядке.

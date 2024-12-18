@@ -1,3 +1,5 @@
+package JavaCourse.Task_1;
+
 //1 Задача. Написать метод который вычисляет факториал введенного целого числа
 public class Task_1 {
     public static void main(String[] args) {

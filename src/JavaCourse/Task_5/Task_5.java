@@ -1,3 +1,5 @@
+package JavaCourse.Task_5;
+
 import java.util.Arrays;
 
 // 5 Задача. Задать целочисленный массив, состоящий из элементов 0 и 1.
