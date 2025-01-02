@@ -2,6 +2,7 @@ package JavaCourse.Task_9;
 import java.util.List;
 import java.util.ArrayList;
 
+//Упорядочить и вывести числа в порядке возрастания (убывания) значений их длины.
 public class Sort {
 
     public static void main(String[] args) {
